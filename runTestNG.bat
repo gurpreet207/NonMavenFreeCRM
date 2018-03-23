@@ -1,0 +1,1 @@
+java -cp ".\bin;.\libs\*" org.testng.TestNG testng_sanity.xml
